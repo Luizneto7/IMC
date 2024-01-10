@@ -31,5 +31,4 @@ function handleKeyDown (event){
         Modal.close()
         Modal.clearInput()
     }
-}
-
+} 
